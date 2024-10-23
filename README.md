@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @uddipta9
-- 👀 I’m interested in ...Web design,Gaming.
+- 👀 I’m interested in ...Web design,Gaming development,graphics design
 - 🌱 I’m currently learning ...Software and Web Development
 - 💞️ I’m looking to collaborate on ...ML/AI
 - 📫 How to reach me ...nathuddipta497@gmail.com
-- 😄 Pronouns: ...
+  
 - ⚡ Fun fact: ...Multimedia cor.
 
 <!---
