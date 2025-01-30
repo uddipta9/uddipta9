@@ -1,12 +1,12 @@
- 👋 Hi, I’m @uddipta9
+ 👋 Hi, I’m @Uddipta Kumar Nath
 - 👀 I’m interested in ...Web design,Gaming development,graphics design
 - 🌱 I’m currently learning ...Software and Web Development
 - 💞️ I’m looking to collaborate on ...ML/AI
 - 📫 How to reach me ...nathuddipta497@gmail.com
   
 - ⚡ Fun fact: ...Multimedia cor.
-# 💫 About Me:
-👋 Hi, I’m @uddipta9<br>- 👀 I’m interested in ...Web design,Gaming development,graphics design<br>- 🌱 I’m currently learning ...Software and Web Development<br>- 💞️ I’m looking to collaborate on ...ML/AI<br>- 📫 How to reach me ...nathuddipta497@gmail.com<br>  <br>- ⚡ Fun fact: ...Multimedia cor.<br>
+
+<br>
 
 
 ## 🌐 Socials:
