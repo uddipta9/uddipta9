@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Uddipta Kumar Nath</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img align="right" alt="coding" width="4000" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjIxMTQwMTAsIm5iZiI6MTc2MjExMzcxMCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTAyVDIwMDE1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUxMmMwYmZmZWE0Y2M4YzFjMDZmOGU5MTUwMjU3MDc5Njc3ZWMxNThjYWJhMjlhNjFmZDQ3ZmE2YTUyNzc4YjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Nm6h9Su8aKO9ATz49cwcBxdqH2VHtTXkdrgYGSZ4u8Y">
+<img align="right" alt="coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uddipta9&label=Profile%20views&color=0e75b6&style=flat" alt="uddipta9" /> </p>
 
