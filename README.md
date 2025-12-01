@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Uddipta Kumar Nath</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img align="right" alt="coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
+<img align="right" alt="coding" width="1000" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F6815453-Stranger-Things-Alt-Logo-Animation&psig=AOvVaw3DGkoE32fY01Op9Phnud0V&ust=1764671652875000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJicoqqYnJEDFQAAAAAdAAAAABA3">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uddipta9&label=Profile%20views&color=0e75b6&style=flat" alt="uddipta9" /> </p>
